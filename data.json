@@ -1,0 +1,452 @@
+[
+    {
+        "id": "0",
+        "description": "Brown eggs",
+        "price": 28.1,
+        "category": "dairy",
+        "stock": 58,
+        "minStock": 17,
+        "maxStock": 159
+    },
+    {
+        "id": "1",
+        "description": "Sweet fresh stawberry",
+        "price": 29.45,
+        "category": "fruit",
+        "stock": 14,
+        "minStock": 10,
+        "maxStock": 41
+    },
+    {
+        "id": "2",
+        "description": "Asparagus",
+        "price": 18.95,
+        "category": "vegetable",
+        "stock": 47,
+        "minStock": 36,
+        "maxStock": 115
+    },
+    {
+        "id": "3",
+        "description": "Green smoothie",
+        "price": 17.68,
+        "category": "dairy",
+        "stock": 77,
+        "minStock": 53,
+        "maxStock": 197
+    },
+    {
+        "id": "4",
+        "description": "Raw legums",
+        "price": 17.11,
+        "category": "vegetable",
+        "stock": 2,
+        "minStock": 1,
+        "maxStock": 6
+    },
+    {
+        "id": "5",
+        "description": "Baking cake",
+        "price": 11.14,
+        "category": "dairy",
+        "stock": 62,
+        "minStock": 15,
+        "maxStock": 146
+    },
+    {
+        "id": "6",
+        "description": "Pesto with basil",
+        "price": 18.19,
+        "category": "vegetable",
+        "stock": 15,
+        "minStock": 1,
+        "maxStock": 34
+    },
+    {
+        "id": "7",
+        "description": "Hazelnut in black ceramic bowl",
+        "price": 27.35,
+        "category": "vegetable",
+        "stock": 12,
+        "minStock": 9,
+        "maxStock": 31
+    },
+    {
+        "id": "8",
+        "description": "Fresh stawberry",
+        "price": 28.59,
+        "category": "fruit",
+        "stock": 43,
+        "minStock": 3,
+        "maxStock": 129
+    },
+    {
+        "id": "9",
+        "description": "Lemon and salt",
+        "price": 15.79,
+        "category": "fruit",
+        "stock": 4,
+        "minStock": 2,
+        "maxStock": 10
+    },
+    {
+        "id": "10",
+        "description": "Homemade bread",
+        "price": 17.48,
+        "category": "bakery",
+        "stock": 22,
+        "minStock": 2,
+        "maxStock": 46
+    },
+    {
+        "id": "11",
+        "description": "Legums",
+        "price": 14.77,
+        "category": "vegetable",
+        "stock": 35,
+        "minStock": 25,
+        "maxStock": 71
+    },
+    {
+        "id": "12",
+        "description": "Fresh tomato",
+        "price": 16.3,
+        "category": "vegetable",
+        "stock": 58,
+        "minStock": 48,
+        "maxStock": 155
+    },
+    {
+        "id": "13",
+        "description": "Healthy breakfast",
+        "price": 13.02,
+        "category": "fruit",
+        "stock": 70,
+        "minStock": 15,
+        "maxStock": 149
+    },
+    {
+        "id": "14",
+        "description": "Green beans",
+        "price": 28.79,
+        "category": "vegetable",
+        "stock": 26,
+        "minStock": 15,
+        "maxStock": 58
+    },
+    {
+        "id": "15",
+        "description": "Baked stuffed portabello mushrooms",
+        "price": 20.31,
+        "category": "bakery",
+        "stock": 58,
+        "minStock": 25,
+        "maxStock": 127
+    },
+    {
+        "id": "16",
+        "description": "Strawberry jelly",
+        "price": 14.18,
+        "category": "fruit",
+        "stock": 64,
+        "minStock": 59,
+        "maxStock": 133
+    },
+    {
+        "id": "17",
+        "description": "Pears juice",
+        "price": 19.49,
+        "category": "fruit",
+        "stock": 47,
+        "minStock": 34,
+        "maxStock": 112
+    },
+    {
+        "id": "18",
+        "description": "Fresh pears",
+        "price": 15.12,
+        "category": "fruit",
+        "stock": 74,
+        "minStock": 4,
+        "maxStock": 185
+    },
+    {
+        "id": "19",
+        "description": "Caprese salad",
+        "price": 16.76,
+        "category": "vegetable",
+        "stock": 14,
+        "minStock": 7,
+        "maxStock": 40
+    },
+    {
+        "id": "20",
+        "description": "Oranges",
+        "price": 21.48,
+        "category": "fruit",
+        "stock": 69,
+        "minStock": 25,
+        "maxStock": 157
+    },
+    {
+        "id": "21",
+        "description": "Vegan food",
+        "price": 29.66,
+        "category": "vegetable",
+        "stock": 75,
+        "minStock": 67,
+        "maxStock": 151
+    },
+    {
+        "id": "22",
+        "description": "Breakfast with muesli",
+        "price": 22.7,
+        "category": "dairy",
+        "stock": 29,
+        "minStock": 3,
+        "maxStock": 84
+    },
+    {
+        "id": "23",
+        "description": "Honey",
+        "price": 17.01,
+        "category": "bakery",
+        "stock": 53,
+        "minStock": 23,
+        "maxStock": 124
+    },
+    {
+        "id": "24",
+        "description": "Breakfast with cottage",
+        "price": 14.05,
+        "category": "fruit",
+        "stock": 49,
+        "minStock": 29,
+        "maxStock": 98
+    },
+    {
+        "id": "25",
+        "description": "Strawberry smoothie",
+        "price": 28.86,
+        "category": "fruit",
+        "stock": 80,
+        "minStock": 64,
+        "maxStock": 195
+    },
+    {
+        "id": "26",
+        "description": "Strawberry and mint",
+        "price": 26.21,
+        "category": "fruit",
+        "stock": 56,
+        "minStock": 11,
+        "maxStock": 143
+    },
+    {
+        "id": "27",
+        "description": "Ricotta",
+        "price": 27.81,
+        "category": "dairy",
+        "stock": 76,
+        "minStock": 23,
+        "maxStock": 188
+    },
+    {
+        "id": "28",
+        "description": "Cuban sandwiche",
+        "price": 18.5,
+        "category": "bakery",
+        "stock": 25,
+        "minStock": 2,
+        "maxStock": 73
+    },
+    {
+        "id": "29",
+        "description": "Granola",
+        "price": 29.97,
+        "category": "dairy",
+        "stock": 51,
+        "minStock": 37,
+        "maxStock": 124
+    },
+    {
+        "id": "30",
+        "description": "Smoothie with chia seeds",
+        "price": 25.26,
+        "category": "fruit",
+        "stock": 59,
+        "minStock": 46,
+        "maxStock": 163
+    },
+    {
+        "id": "31",
+        "description": "Yogurt",
+        "price": 27.61,
+        "category": "dairy",
+        "stock": 21,
+        "minStock": 4,
+        "maxStock": 59
+    },
+    {
+        "id": "32",
+        "description": "Sandwich with salad",
+        "price": 22.48,
+        "category": "vegetable",
+        "stock": 38,
+        "minStock": 20,
+        "maxStock": 114
+    },
+    {
+        "id": "33",
+        "description": "Cherry",
+        "price": 14.35,
+        "category": "fruit",
+        "stock": 23,
+        "minStock": 10,
+        "maxStock": 58
+    },
+    {
+        "id": "34",
+        "description": "Raw asparagus",
+        "price": 22.97,
+        "category": "vegetable",
+        "stock": 3,
+        "minStock": 1,
+        "maxStock": 7
+    },
+    {
+        "id": "35",
+        "description": "Corn",
+        "price": 13.55,
+        "category": "vegetable",
+        "stock": 62,
+        "minStock": 18,
+        "maxStock": 179
+    },
+    {
+        "id": "36",
+        "description": "Vegan",
+        "price": 28.96,
+        "category": "vegan",
+        "stock": 9,
+        "minStock": 6,
+        "maxStock": 21
+    },
+    {
+        "id": "37",
+        "description": "Fresh blueberries",
+        "price": 21.01,
+        "category": "fruit",
+        "stock": 67,
+        "minStock": 61,
+        "maxStock": 143
+    },
+    {
+        "id": "38",
+        "description": "Smashed avocado",
+        "price": 25.88,
+        "category": "fruit",
+        "stock": 8,
+        "minStock": 1,
+        "maxStock": 16
+    },
+    {
+        "id": "39",
+        "description": "Italian ciabatta",
+        "price": 15.18,
+        "category": "bakery",
+        "stock": 43,
+        "minStock": 38,
+        "maxStock": 115
+    },
+    {
+        "id": "40",
+        "description": "Rustic breakfast",
+        "price": 21.32,
+        "category": "dairy",
+        "stock": 26,
+        "minStock": 22,
+        "maxStock": 73
+    },
+    {
+        "id": "41",
+        "description": "Sliced lemons",
+        "price": 27.14,
+        "category": "fruit",
+        "stock": 78,
+        "minStock": 77,
+        "maxStock": 184
+    },
+    {
+        "id": "42",
+        "description": "Plums",
+        "price": 19.18,
+        "category": "fruit",
+        "stock": 26,
+        "minStock": 9,
+        "maxStock": 54
+    },
+    {
+        "id": "43",
+        "description": "French fries",
+        "price": 18.32,
+        "category": "bakery",
+        "stock": 30,
+        "minStock": 15,
+        "maxStock": 61
+    },
+    {
+        "id": "44",
+        "description": "Strawberries",
+        "price": 15.13,
+        "category": "fruit",
+        "stock": 38,
+        "minStock": 29,
+        "maxStock": 80
+    },
+    {
+        "id": "45",
+        "description": "Ground beef meat burger",
+        "price": 11.73,
+        "category": "meat",
+        "stock": 46,
+        "minStock": 34,
+        "maxStock": 117
+    },
+    {
+        "id": "46",
+        "description": "Tomatoes",
+        "price": 26.03,
+        "category": "fruit",
+        "stock": 18,
+        "minStock": 18,
+        "maxStock": 45
+    },
+    {
+        "id": "47",
+        "description": "Basil",
+        "price": 15.19,
+        "category": "vegetable",
+        "stock": 25,
+        "minStock": 1,
+        "maxStock": 54
+    },
+    {
+        "id": "48",
+        "description": "Fruits bouquet",
+        "price": 18.18,
+        "category": "fruit",
+        "stock": 25,
+        "minStock": 4,
+        "maxStock": 61
+    },
+    {
+        "id": "49",
+        "description": "Peaches on branch",
+        "price": 25.62,
+        "category": "fruit",
+        "stock": 26,
+        "minStock": 4,
+        "maxStock": 56
+    }
+]
